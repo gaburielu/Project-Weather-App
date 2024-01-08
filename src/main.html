@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div class="forecast" id="forecast"></div>
+    <div class="search-bar">
+      <form class="searchform" id="search-form" action="">
+        <input
+          type="search"
+          name="search"
+          class="searchbox"
+          placeholder="City/Country"
+          id="searchInput"
+        />
+        <input type="submit" value=" " />
+      </form>
+      <div class="location">
+        <h1 id="cityHead"></h1>
+        <h2 id="countryHead"></h2>
+      </div>
+    </div>
+    <div class="current">
+      <h4 id="humidity"></h4>
+      <h4 id="chance-of-rain"></h4>
+      <h4 id="wind-speed"></h4>
+      <h1 id="temperature"></h1>
+      <h1 id="conditions"></h1>
+      <h4 id="date"></h4>
+    </div>
+    <nav id="hiddenFooter" class="feet hidden">
+      <div class="footer">
+        <p class="acknowledgement" style="text-align: center">
+          Made by ©
+          <a href="https://github.com/Gaburielu" class="link">Gaburielu</a> 2024
+          |
+          <a href="https://www.theodinproject.com/about" class="link"
+            >The Odin Project</a
+          >
+          |
+          <a href="#" class="link">Source Code & Credit</a>
+        </p>
+      </div>
+    </nav>
+    <button id="footer-toggle" type="button">C</button>
+  </body>
+</html>
