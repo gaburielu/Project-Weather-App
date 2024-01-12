@@ -2,21 +2,23 @@
 
 A simple weather forecast site using weather API
 
-Link to project:
+Link to project: https://gaburielu.github.io/Project-Weather-App/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Weather API
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Not much planning or programming is used as it's a pretty straightforward project, I probably spend more time making the site look nice. First time using Asynchronous Code which includes JSON, async/await and working with API which in this project is weather API.
 
 Optimizations
-(optional)
 
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
+1. Could include a pop-up to display the weekly forecast when hovering over the weather icon.
+2. Can include a local storage variable to store the user's last location input.
 
 Lessons Learned:
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or wow I actually did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Using asynchronous JS lesson from the ODIN project which includes promise syntax, async and await, how to use JSON and fetching data using an API.
 
 Credit
+
 Photo by <a href="https://unsplash.com/@arteum?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Arteum.ro</a> on <a href="https://unsplash.com/photos/white-clouds-bGlH3TIzGGE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 <a target="_blank" href="https://icons8.com/icon/42789/cloud">Cloud</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
